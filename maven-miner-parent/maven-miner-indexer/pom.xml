@@ -89,7 +89,7 @@ under the License.
     <truezip.version>7.7.10</truezip.version>
     <archetype.version>2.4</archetype.version>
     <wagon.version>2.12</wagon.version>
-	<slf4j.version>1.7.25</slf4j.version>
+	<slf4j.version>1.7.30</slf4j.version>
     <maven.site.path>maven-indexer-archives/maven-indexer-LATEST</maven.site.path>
 </properties>
 
